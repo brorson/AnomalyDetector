@@ -1,0 +1,17 @@
+This is an implementation of an anomaly detector based on
+subspace methods.  It looks for changes in sounds detected
+by a microphone.
+
+The code uses an ADC-001 A/D cape, which is a 2-channel
+A/D board designed for data acquisition in the audio range (50Hz --
+15kHz).  The cape takes input from a MIC-001 microphone.
+Complete documentation for the ADC-001 cape and MIC-001 
+microphone is available under: 
+
+https://github.com/brorson/ADC-001_hardware_information
+
+These items are available for sale at BNM-Hobbies:
+
+
+
+
